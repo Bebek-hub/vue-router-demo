@@ -1,3 +1,12 @@
+My first attempt of vue 3
+
+# It inludes:
+A simple set of router link
+The use of reactivity in vue 3 i.e the use of "ref" and "reactive"
+
+
+
+
 # vue-router-demo
 
 ## Project setup
